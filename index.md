@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Helen Grace Scott
 
-You can use the [editor on GitHub](https://github.com/hgscott/hgscott.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Helen is a staff scientist at Raytheon BBN Technologies, and a porud Texas Tech Alum. She wrote her Master's thesis in the [Plant Ecophysiology Laboratory](http://www.smithecophyslab.com/) under Dr. Nick Smith.
 
 ### Markdown
 
