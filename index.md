@@ -1,6 +1,6 @@
 ## Helen Grace Scott
 
-Helen is a staff scientist at Raytheon BBN Technologies, and a porud Texas Tech Alum. She wrote her Master's thesis in the [Plant Ecophysiology Laboratory](http://www.smithecophyslab.com/) under Dr. Nick Smith.
+Helen is a staff scientist at Raytheon BBN Technologies, and a proud Texas Tech Alum. She wrote her Master's thesis in the [Plant Ecophysiology Laboratory](http://www.smithecophyslab.com/) under Dr. Nick Smith.
 
 Other pages of this website:
 [Link to another page](./another-page.html).
