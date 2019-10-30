@@ -10,3 +10,5 @@ I grew up in Houston, Texas, a city I have seen ravaged by hurricanes and 1,000-
 I know work for a private Research and Development company in Cambridge, Massachusetts, BBN Techgnologies. I am a computaitonal biologist and bioinformaticist working mainly on genetic engineering projects that come out of the US Department of Defense, though am always searching for ways to bring botany and agriculture to BBN. 
 
 I am passionate about science communication to the public and science advocacy in American politics. I am especially interested in how climate change will impact international relations as we move into this brave new world. 
+
+[back](./)
