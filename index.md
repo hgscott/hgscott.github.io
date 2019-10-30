@@ -4,6 +4,7 @@ Helen is a staff scientist at Raytheon BBN Technologies, and a proud Texas Tech 
 
 Other pages of this website:
 [Link to another page](./another-page.html).
+[My personal musings: Ecoinformatics for the End of the World](./Ecoinformatics.html)
 
 ### Markdown
 
