@@ -2,9 +2,13 @@
 
 Helen is a staff scientist at Raytheon BBN Technologies, and a proud Texas Tech Alum. She wrote her Master's thesis in the [Plant Ecophysiology Laboratory](http://www.smithecophyslab.com/) under Dr. Nick Smith.
 
-Other pages of this website:
+Other pages of this website:\\
 [Link to another page](./another-page.html).\\
-[My personal musings: Ecoinformatics for the End of the World](./Ecoinformatics.html)
+[Ecoinformatics for the End of the World](./Ecoinformatics.html)\\
+[About Me](./Bio.md)\\
+CV\\
+Publications\\
+
 
 ### Markdown
 
